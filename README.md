@@ -6,3 +6,6 @@ In this game, you are a bubble trying to survive. Fish that come in contact with
 
 To play:
 Press enter to start, move with wasd, and shoot with the left click on the mouse. Bubbles will go where your mouse is pointed.
+
+
+Jonathan Soderquist - jlukesoderquist@gmail.com
